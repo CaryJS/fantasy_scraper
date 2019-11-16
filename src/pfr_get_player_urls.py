@@ -8,7 +8,7 @@ import json
 all_players_url_template = "https://www.pro-football-reference.com/players/[*]/"
 # list of template url's for every player.
 single_player_url_template = "https://www.pro-football-reference.com/[*]"
-
+# this is the only edit I am making, made it in the browser
 
 class Scraper:
 	"""
